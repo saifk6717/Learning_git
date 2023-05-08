@@ -24,7 +24,3 @@ def add4(*num):
     print(num)
     result=list(map(lambda x,y:x+y,num[0],num[1]))
     print(result)
-
-
-
-    
